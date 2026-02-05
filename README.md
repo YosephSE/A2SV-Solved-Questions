@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0299-bulls-and-cows) |
 ## Math
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0299-bulls-and-cows) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
