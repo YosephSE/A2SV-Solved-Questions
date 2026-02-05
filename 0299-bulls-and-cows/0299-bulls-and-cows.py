@@ -5,8 +5,6 @@ class Solution:
         for i in range(len(secret)):
             secret_freq[secret[i]] = secret_freq.get(secret[i], 0) + 1
             guess_freq[guess[i]] = guess_freq.get(guess[i], 0) + 1
-        print("sec:", secret_freq)
-        print("gus:", guess_freq)
         for i in guess_freq:
             if guess_freq[i] >= secret_freq.get(i, 0):
                 correct_guesses += secret_freq.get(i, 0)
