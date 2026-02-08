@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
