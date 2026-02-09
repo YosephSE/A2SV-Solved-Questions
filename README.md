@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0609-find-duplicate-file-in-system) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0299-bulls-and-cows](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0722-remove-comments](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0722-remove-comments) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0811-subdomain-visit-count](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Trie
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2671-frequency-tracker](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2671-frequency-tracker) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
