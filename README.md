@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0268-missing-number) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 <!---LeetCode Topics End-->
