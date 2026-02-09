@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1528-shuffle-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2553-separate-the-digits-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
