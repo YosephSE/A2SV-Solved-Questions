@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
