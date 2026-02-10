@@ -11,10 +11,8 @@ class Solution(object):
         "500": "D",
         "1000": "M"
         }
-        addition_ops = ['2', '3', '6', '7', '8']
         for i in range(len(num)):
             mul_of_10 = num[i] + '0' * len(num[i + 1:])
-            print(mul_of_10)
             roman_val = ''
             if mul_of_10 in roman_map:
                 res.append(roman_map[mul_of_10])
