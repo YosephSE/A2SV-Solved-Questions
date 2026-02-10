@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0268-missing-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0299-bulls-and-cows](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0299-bulls-and-cows) |
