@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0811-subdomain-visit-count](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2007-find-original-array-from-doubled-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2671-frequency-tracker](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2671-frequency-tracker) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0722-remove-comments) |
 | [0811-subdomain-visit-count](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1528-shuffle-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Counting
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0811-subdomain-visit-count](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Trie
 |  |
