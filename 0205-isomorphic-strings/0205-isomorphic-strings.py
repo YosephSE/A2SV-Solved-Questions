@@ -7,8 +7,6 @@ class Solution(object):
                 return False
             elif s[i] in char_map and char_map[s[i]] == t[i]:
                 continue
-            # elif s[i] == t[i]:
-            #     return False
             elif t[i] in char_set:
                 return False
             else:
