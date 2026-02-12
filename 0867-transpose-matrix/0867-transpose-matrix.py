@@ -5,7 +5,6 @@ class Solution(object):
         rev_matrix = [[0] * m for _ in range(n)]
         for i in range(m):
             for j in range(n):
-
                 rev_matrix[j][i] = matrix[i][j]
         return rev_matrix
 
