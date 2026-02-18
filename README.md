@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3527-find-the-most-common-response](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3527-find-the-most-common-response) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2671-frequency-tracker](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2671-frequency-tracker) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3527-find-the-most-common-response) |
 ## Math
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [2007-find-original-array-from-doubled-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## String
 |  |
 | ------- |
