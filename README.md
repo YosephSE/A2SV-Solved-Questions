@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1657-determine-if-two-strings-are-close](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2671-frequency-tracker](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2671-frequency-tracker) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [1657-determine-if-two-strings-are-close](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## String
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1528-shuffle-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3527-find-the-most-common-response) |
 ## Counting
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1657-determine-if-two-strings-are-close](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3527-find-the-most-common-response) |
 ## Trie
