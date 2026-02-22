@@ -2,17 +2,21 @@ class MinStack(object):
 
     def __init__(self):
         self.stack = []
-        self.min_elem = float('inf')
+        self.min_elem = []
         
 
     def push(self, val):
         self.stack.append(val)
-        self.min_elem = min(self.min_elem, val)
+        if len(self.min_elem) > 0:
+            self.min_elem.append(min(self.min_elem[-1], val))
+        else:
+            self.min_elem.append(val)
         
         
 
     def pop(self):
         self.stack.pop()
+        self.min_elem.pop()
         
         
 
@@ -25,7 +29,7 @@ class MinStack(object):
         
 
     def getMin(self):
-        return min(self.stack)
+        return self.min_elem[-1]
         
         
 
