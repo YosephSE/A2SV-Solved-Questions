@@ -11,8 +11,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0238-product-of-array-except-self) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [2671-frequency-tracker](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2671-frequency-tracker) |
 ## Queue
@@ -248,4 +252,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
