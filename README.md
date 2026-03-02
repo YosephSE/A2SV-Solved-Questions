@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0414-third-maximum-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0463-island-perimeter](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
