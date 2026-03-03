@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0136-single-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0242-valid-anagram) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0832-flipping-an-image) |
