@@ -4,7 +4,7 @@ def solve():
     n = int(input())
     a = list(map(int, input().split()))
     freq = Counter(a)
-    for i in sorted(freq, reverse=True):
+    for i in freq:
         if freq[i] % 2 == 1:
             print("YES")
             return
