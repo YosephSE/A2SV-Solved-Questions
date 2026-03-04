@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0832-flipping-an-image) |
