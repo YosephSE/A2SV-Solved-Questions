@@ -1,11 +1,12 @@
 class Solution(object):
     def moveZeroes(self, nums):
-        n = len(nums)
-        while 0 in nums:
-            nums.remove(0)
-        nums.extend([0] *( n - len(nums)))
+        slow = 0
+        for fast in range(len(nums)):
+            if nums[fast] != 0:
+                nums[fast], nums[slow] = nums[slow], nums[fast]
+                slow += 1
 
-        # l, r = 0, 0
-        # while r < len(nums):
-        #     if 
+
+            
+
         
