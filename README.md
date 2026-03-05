@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2553-separate-the-digits-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2679-sum-in-a-matrix) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2679-sum-in-a-matrix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2679-sum-in-a-matrix) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0832-flipping-an-image) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3794-reverse-string-prefix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0011-container-with-most-water) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2007-find-original-array-from-doubled-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Union-Find
 |  |
 | ------- |
