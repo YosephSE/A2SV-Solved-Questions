@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0049-group-anagrams) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0202-happy-number) |
