@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0661-image-smoother](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0722-remove-comments) |
+| [0739-daily-temperatures](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0739-daily-temperatures) |
 | [0811-subdomain-visit-count](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0811-subdomain-visit-count) |
 | [0832-flipping-an-image](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0867-transpose-matrix) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
