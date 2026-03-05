@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0811-subdomain-visit-count) |
 | [0832-flipping-an-image](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0867-transpose-matrix) |
+| [0969-pancake-sorting](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0969-pancake-sorting) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1122-relative-sort-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0506-relative-ranks) |
+| [0969-pancake-sorting](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0969-pancake-sorting) |
 | [1122-relative-sort-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0832-flipping-an-image) |
+| [0969-pancake-sorting](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0969-pancake-sorting) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0011-container-with-most-water) |
+| [0969-pancake-sorting](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0969-pancake-sorting) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2007-find-original-array-from-doubled-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
