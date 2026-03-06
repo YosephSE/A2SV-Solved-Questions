@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0661-image-smoother](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0722-remove-comments) |
+| [0739-daily-temperatures](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0739-daily-temperatures) |
 | [0811-subdomain-visit-count](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0811-subdomain-visit-count) |
 | [0832-flipping-an-image](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0867-transpose-matrix) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3527-find-the-most-common-response) |
 | [3794-reverse-string-prefix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3794-reverse-string-prefix) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0969-pancake-sorting) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3794-reverse-string-prefix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2007-find-original-array-from-doubled-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Union-Find
 |  |
 | ------- |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -326,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
