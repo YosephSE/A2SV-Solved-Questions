@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0609-find-duplicate-file-in-system) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0969-pancake-sorting](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0969-pancake-sorting) |
 | [0986-interval-list-intersections](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0986-interval-list-intersections) |
