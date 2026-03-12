@@ -7,8 +7,8 @@ def solve():
     res = 0
     i = 0
     j = 0
-    while i < len(a):
-        if j < len(b):
+    while i < n:
+        if j < k:
             if b[j] <= n - i:
                 res += sum(a[i:i + b[j] - 1])
                 i += b[j]
