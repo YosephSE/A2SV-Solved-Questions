@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0811-subdomain-visit-count) |
 | [1122-relative-sort-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1248-count-number-of-nice-subarrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0238-product-of-array-except-self) |
+| [1248-count-number-of-nice-subarrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
 ## Counting Sort
 |  |
@@ -381,4 +385,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [1248-count-number-of-nice-subarrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
