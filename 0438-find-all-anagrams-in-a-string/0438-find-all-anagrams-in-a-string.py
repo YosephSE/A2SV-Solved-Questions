@@ -6,10 +6,6 @@ class Solution(object):
         l = 0
         for r in range(len(s)):
             s_counter[s[r]] += 1
-            # print('-----')
-            # print(s_counter)
-            # print(p_counter)
-            # print(l)
             if p_counter == s_counter:
                 res.append(l)
             if r - l + 1 == len(p):
