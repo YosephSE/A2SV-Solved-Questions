@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2381-shifting-letters-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -389,4 +390,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
