@@ -1,9 +1,9 @@
 class Solution(object):
     def runningSum(self, nums):
-        res = []
-        pre = 0
-        for i in nums:
-            pre += i
-            res.append(pre)
-        return res
+        prefix = 0
+        for i in range(len(nums)):
+            nums[i] += prefix
+            prefix = nums[i]
+        return nums
+
         
