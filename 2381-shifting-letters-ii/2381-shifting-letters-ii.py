@@ -1,7 +1,7 @@
 class Solution(object):
     def shiftingLetters(self, s, shifts):
         prefix = [0] * len(s)
-        res = ''
+        res = []
         for shift in shifts:
 
             prefix[shift[0]] += (1 if shift[2] == 1 else -1)
@@ -13,5 +13,5 @@ class Solution(object):
         for i in range(len(s)):
             ord_val = (ord(s[i]) - ord('a') + prefix[i]) % 26 + ord('a')
             char = chr(ord_val)
-            res += char
-        return res
+            res.append(char)
+        return ''.join(res)
