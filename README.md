@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2381-shifting-letters-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2381-shifting-letters-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2553-separate-the-digits-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2381-shifting-letters-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2381-shifting-letters-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3527-find-the-most-common-response) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0238-product-of-array-except-self) |
 | [1248-count-number-of-nice-subarrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
+| [2381-shifting-letters-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2381-shifting-letters-ii) |
 ## Counting Sort
 |  |
 | ------- |
