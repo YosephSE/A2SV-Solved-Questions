@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0722-remove-comments) |
+| [0724-find-pivot-index](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0739-daily-temperatures) |
 | [0811-subdomain-visit-count](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0811-subdomain-visit-count) |
 | [0832-flipping-an-image](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0832-flipping-an-image) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [2381-shifting-letters-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2381-shifting-letters-ii) |
