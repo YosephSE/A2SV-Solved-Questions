@@ -1,21 +1,20 @@
 class Solution(object):
     def productExceptSelf(self, nums):
-        res = []
-        pre_mul = [1]
-        post_mul = [1]
+        res = [0] * len(nums)
+        prefix = [1]
+        postfix = [1]
+        for i in range(1, len(nums)):
+            prefix.append(prefix[-1] * nums[i - 1])
+        print(prefix)
+        for i in range(len(nums) - 2, -1, -1):
+            print(i)
+            postfix.append(postfix[-1] * nums[i + 1])
+        postfix.reverse()
 
-        for i in range(len(nums) - 1):
-            pre_mul.append(pre_mul[-1] * nums[i])
-
-        for i in range(len(nums) - 1, 0, -1):
-            post_mul.append(post_mul[-1] * nums[i])
-
-        post_mul.reverse()
-        
-        for i in range(len(pre_mul)):
-            res.append(pre_mul[i] * post_mul[i])
-
+        for i in range(len(prefix)):
+            res[i] = prefix[i] * postfix[i]
         return res
-        
+
+
         
         
