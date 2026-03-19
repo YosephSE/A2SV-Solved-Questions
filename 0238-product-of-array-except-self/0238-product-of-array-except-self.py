@@ -5,9 +5,8 @@ class Solution(object):
         postfix = [1]
         for i in range(1, len(nums)):
             prefix.append(prefix[-1] * nums[i - 1])
-        print(prefix)
+
         for i in range(len(nums) - 2, -1, -1):
-            print(i)
             postfix.append(postfix[-1] * nums[i + 1])
         postfix.reverse()
 
