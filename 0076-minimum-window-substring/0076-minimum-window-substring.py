@@ -1,21 +1,33 @@
-class Solution:
+class Solution(object):
     def minWindow(self, s, t):
-        ans = (0, float('inf'))
-        left, tar, win = 0, Counter(t), Counter()
+        if not t or not s:
+            return ""
 
-        for right in range(len(s)):
-            ch = s[right]
-            win[ch] += 1
+        count_t = Counter(t)
+        window = {}
+        
+        have, need = 0, len(count_t)
+        res, res_len = [-1, -1], float("inf")
+        l = 0
 
-            while all(win[c] >= tar[c] for c in tar):
-                if ans[1] >= right - left + 1:
-                    ans = (left, right - left + 1)
+        for r in range(len(s)):
+            c = s[r]
+            window[c] = window.get(c, 0) + 1
 
-                remch = s[left]
-                win[remch] -= 1
-                if win[remch] == 0:
-                    del win[remch]
+            if c in count_t and window[c] == count_t[c]:
+                have += 1
 
-                left += 1
+            while have == need:
 
-        return "" if ans[1] == float('inf') else s[ans[0]:ans[0] + ans[1]]
+                if (r - l + 1) < res_len:
+                    res = [l, r]
+                    res_len = r - l + 1
+
+                window[s[l]] -= 1
+                if s[l] in count_t and window[s[l]] < count_t[s[l]]:
+                    have -= 1
+
+                l += 1
+
+        l, r = res
+        return s[l:r+1] if res_len != float("inf") else ""
