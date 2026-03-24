@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0811-subdomain-visit-count](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0811-subdomain-visit-count) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0722-remove-comments](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0722-remove-comments) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0969-pancake-sorting) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
