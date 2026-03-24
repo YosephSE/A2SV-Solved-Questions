@@ -13,8 +13,6 @@ class Solution(object):
             while unique[nums[r]] > 1:
                 unique[nums[l]] -= 1
                 curr -= nums[l]
-                if unique[nums[l]] == 0:
-                    del unique[nums[l]]
                 l += 1
 
             res = max(res, curr)
