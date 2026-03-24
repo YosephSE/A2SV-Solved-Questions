@@ -12,8 +12,6 @@ class Solution(object):
         l = 0
         for r in range(len(s1), len(s2)):
             s2_count[s2[l]] -= 1
-            # if s2_count[l] == 0:
-            #     s2_count.pop()
                 
             l += 1
             s2_count[s2[r]] += 1
