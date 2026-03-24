@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0969-pancake-sorting](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0969-pancake-sorting) |
+| [0978-longest-turbulent-subarray](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0978-longest-turbulent-subarray) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0986-interval-list-intersections](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1089-duplicate-zeros) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0118-pascals-triangle) |
+| [0978-longest-turbulent-subarray](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0978-longest-turbulent-subarray) |
 ## Game Theory
 |  |
 | ------- |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0904-fruit-into-baskets) |
+| [0978-longest-turbulent-subarray](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0978-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
