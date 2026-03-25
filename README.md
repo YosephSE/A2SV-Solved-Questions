@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2007-find-original-array-from-doubled-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2090-k-radius-subarray-averages](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2090-k-radius-subarray-averages) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2381-shifting-letters-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2381-shifting-letters-ii) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1695-maximum-erasure-value) |
+| [2090-k-radius-subarray-averages](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2537-count-the-number-of-good-subarrays) |
