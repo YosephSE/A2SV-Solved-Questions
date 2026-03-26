@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0609-find-duplicate-file-in-system) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0523-continuous-subarray-sum](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
