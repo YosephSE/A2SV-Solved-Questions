@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2381-shifting-letters-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3527-find-the-most-common-response) |
 | [3794-reverse-string-prefix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3794-reverse-string-prefix) |
@@ -454,4 +455,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 <!---LeetCode Topics End-->
