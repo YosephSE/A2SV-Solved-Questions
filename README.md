@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0969-pancake-sorting) |
 | [0986-interval-list-intersections](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0986-interval-list-intersections) |
@@ -474,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
