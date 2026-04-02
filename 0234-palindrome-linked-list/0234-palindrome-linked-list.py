@@ -9,13 +9,11 @@ class Solution(object):
         if not head or not head.next:
             return True
 
-        # Step 1: find middle
         slow, fast = head, head
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
 
-        # Step 2: reverse second half
         prev = None
         while slow:
             nxt = slow.next
@@ -23,7 +21,6 @@ class Solution(object):
             prev = slow
             slow = nxt
 
-        # Step 3: compare halves
         left, right = head, prev
         while right:
             if left.val != right.val:
