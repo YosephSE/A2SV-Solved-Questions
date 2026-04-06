@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0217-contains-duplicate) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0234-palindrome-linked-list) |
@@ -502,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0234-palindrome-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
