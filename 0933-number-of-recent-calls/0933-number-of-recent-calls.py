@@ -6,7 +6,7 @@ class RecentCounter(object):
 
     def ping(self, t):
         self.records.append(t)
-        while self.records[self.start] < t - 3000:
+        while t - 3000 > self.records[self.start]:
             self.start += 1
         return len(self.records) - self.start
 
