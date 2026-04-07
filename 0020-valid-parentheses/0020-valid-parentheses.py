@@ -7,7 +7,7 @@ class Solution(object):
             "]": "["
         }
         for i in s:
-            if i in ['(', '{', '[']:
+            if i not in map:
                 stack.append(i)
             elif len(stack) == 0:
                 return False
