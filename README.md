@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2381-shifting-letters-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2381-shifting-letters-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2390-removing-stars-from-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2679-sum-in-a-matrix) |
 ## Randomized
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0739-daily-temperatures) |
+| [2390-removing-stars-from-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
