@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0202-happy-number) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0203-remove-linked-list-elements) |
