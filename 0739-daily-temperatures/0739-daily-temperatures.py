@@ -1,11 +1,13 @@
 class Solution(object):
-    def dailyTemperatures(self, temperatures):
-        res = [0] * len(temperatures)
+    def dailyTemperatures(self, t):
         stack = []
+        res = [0] * len(t)
 
-        for i, val in enumerate(temperatures):
-            while stack and val > stack[-1][1]:
-                stackInd, stackT = stack.pop()
-                res[stackInd] = i - stackInd
-            stack.append((i, val))
+        for i in range(len(t)):
+            while len(stack) > 0 and stack[-1][1] < t[i]:
+                res[stack[-1][0]] = i - stack[-1][0]
+                stack.pop()
+            stack.append((i, t[i]))
         return res
+
+        
