@@ -1,13 +1,12 @@
 class Solution:
     def timeRequiredToBuy(self, tickets, k):
-        time = 0
-        n = len(tickets)
-        i = 0
-        
-        while tickets[k] > 0:
-            if tickets[i] > 0:
-                tickets[i] -= 1
-                time += 1
-            i = (i + 1) % n
-        
-        return time
+        val = tickets[k]
+        res = 0
+        for i in range(len(tickets)):
+            if i < k:
+                res += min(val, tickets[i])
+            elif i == k:
+                res += val
+            elif i > k:
+                res += min(val - 1, tickets[i])
+        return res
