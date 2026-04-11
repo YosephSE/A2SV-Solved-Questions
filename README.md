@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0739-daily-temperatures) |
 | [1598-crawler-log-folder](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0739-daily-temperatures) |
 ## Sweep Line
 |  |
