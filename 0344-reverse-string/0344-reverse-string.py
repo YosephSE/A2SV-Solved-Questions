@@ -5,7 +5,6 @@ class Solution(object):
         def switchChars(l, r):
             if l >= r:
                 return
-            print(l, r)
             s[l], s[r] = s[r], s[l]
             l += 1
             r -= 1
