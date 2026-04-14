@@ -1,14 +1,18 @@
 class Solution(object):
     def generate(self, numRows):
-        res = [[1], [1, 1]]
+        if numRows == 0:
+            return []
         if numRows == 1:
             return [[1]]
-        elif numRows == 2:
-            return res
-        for i in range(numRows - 2):
-            row = [1]
-            for i in range(len(res[-1]) - 1):
-                row.append(res[-1][i] + res[-1][i + 1])
-            row.append(1)
-            res.append(row)
+        
+        res = [[1], [1, 1]]
+        
+        for i in range(2, numRows):
+            prev = res[-1]
+            toAppend = [1]
+            for j in range(1, len(prev)):
+                toAppend.append(prev[j - 1] + prev[j])
+            toAppend.append(1)
+            res.append(toAppend)
+        
         return res
