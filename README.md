@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1922-count-good-numbers](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1922-count-good-numbers) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Binary Search
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1922-count-good-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
