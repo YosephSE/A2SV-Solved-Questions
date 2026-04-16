@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1695-maximum-erasure-value) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1922-count-good-numbers) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Simulation
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2390-removing-stars-from-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
@@ -560,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1922-count-good-numbers) |
 ## Doubly-Linked List
 |  |
