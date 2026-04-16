@@ -1,16 +1,8 @@
-class Solution(object):
+class Solution:
     def findTheWinner(self, n, k):
-        # init a list with range 1 to n
-        a = list(range(1,n + 1))
-        # loop and remove elements till we have one element left
-        i = 0
-        while len(a) > 1:
-            i = (i + k - 1) % len(a)
-            a.pop(i)
+        return self.winnerHelper(n, k) + 1
 
-
-
-        return a[0]
-
-        
-        
+    def winnerHelper(self, n, k):
+        if n == 1:
+            return 0
+        return (self.winnerHelper(n - 1, k) + k) % n
