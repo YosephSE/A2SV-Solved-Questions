@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2730-find-the-longest-semi-repetitive-substring) |
+| [3174-clear-digits](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3174-clear-digits) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3527-find-the-most-common-response) |
 | [3794-reverse-string-prefix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3794-reverse-string-prefix) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2679-sum-in-a-matrix) |
+| [3174-clear-digits](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3174-clear-digits) |
 ## Randomized
 |  |
 | ------- |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/YosephSE/A2SV-Solved-Questions/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
