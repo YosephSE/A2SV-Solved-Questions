@@ -6,15 +6,15 @@
 class Solution(object):
     def reverseList(self, head):
         prev = None
-        curr = head
-        while curr:
-            next = curr.next
-            curr.next = prev
-            prev = curr
-            curr = next
-            
+        cur = head
+
+        while cur:
+            nxt = cur.next
+            cur.next = prev
+            prev = cur
+            cur = nxt
 
         return prev
-
+        
 
         
