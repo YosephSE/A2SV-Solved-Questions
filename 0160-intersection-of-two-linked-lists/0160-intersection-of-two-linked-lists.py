@@ -6,15 +6,37 @@
 
 class Solution(object):
     def getIntersectionNode(self, headA, headB):
-        yourSet = set()
+        sizeA = 0
+        sizeB = 0
         cur = headA
         while cur:
-            yourSet.add(cur)
+            sizeA += 1
             cur = cur.next
         cur = headB
         while cur:
-            if cur in yourSet:
-                return cur
+            sizeB += 1
             cur = cur.next
+
+        diff = sizeB - sizeA
+
+        while diff > 0:
+            headB = headB.next
+            diff -= 1
+        while diff < 0:
+            headA = headA.next
+            diff += 1
+
+        while headA and headB:
+            if headA == headB:
+                return headA
+            headA = headA.next
+            headB = headB.next
         return None
+
+
+        
+        
+
+
+
         
