@@ -9,13 +9,12 @@ class Solution(object):
         cur = root
         stack = []
         res = []
+
         while cur or stack:
             if cur:
-                res.append(cur.val)
                 stack.append(cur.right)
+                res.append(cur.val)
                 cur = cur.left
-            else:
+            elif stack:
                 cur = stack.pop()
         return res
-
-        
