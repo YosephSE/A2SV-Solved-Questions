@@ -4,17 +4,17 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution(object):
     def preorderTraversal(self, root):
-        cur = root
-        stack = []
         res = []
 
-        while cur or stack:
-            if cur:
-                stack.append(cur.right)
-                res.append(cur.val)
-                cur = cur.left
-            elif stack:
-                cur = stack.pop()
+        def dfs(node):
+            if not node:
+                return
+            res.append(node.val)
+            dfs(node.left)
+            dfs(node.right)
+
+        dfs(root)
         return res
