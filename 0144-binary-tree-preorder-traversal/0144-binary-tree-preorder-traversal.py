@@ -7,13 +7,14 @@
 class Solution(object):
     def preorderTraversal(self, root):
         res = []
-        def dfs(node):
-            if not node:
-                return
-            res.append(node.val)
-            dfs(node.left)
-            dfs(node.right)
-        dfs(root)
+        stack = []
+        cur = root
+        while cur or stack:
+            if cur:
+                res.append(cur.val)
+                stack.append(cur.right)
+                cur = cur.left
+            else:
+                cur = stack.pop()
         return res
 
-        
