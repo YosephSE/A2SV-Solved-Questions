@@ -6,12 +6,13 @@
 #         self.right = right
 class Solution(object):
     def searchBST(self, root, val):
-        while root:
-            if root.val == val:
-                return root
-            elif root.val > val:
-                root = root.left
+        cur = root
+        while cur:
+            if cur.val == val:
+                return cur
+            elif cur.val > val:
+                cur = cur.left
             else:
-                root = root.right
+                cur = cur.right
         return None
         
