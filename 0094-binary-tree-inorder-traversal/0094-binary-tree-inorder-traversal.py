@@ -7,12 +7,16 @@
 class Solution(object):
     def inorderTraversal(self, root):
         res = []
-        def dfs(root):
-            if not root:
-                return
-            dfs(root.left)
-            res.append(root.val)
-            dfs(root.right)
-        dfs(root)
-        return res
+        stack = []
+        cur = root
         
+        while cur or stack:
+            while cur:
+                stack.append(cur)
+                cur = cur.left
+            
+            cur = stack.pop()
+            res.append(cur.val)
+            cur = cur.right
+        
+        return res
