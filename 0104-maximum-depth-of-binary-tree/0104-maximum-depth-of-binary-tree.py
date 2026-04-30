@@ -4,9 +4,9 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution(object):
     def maxDepth(self, root):
         if not root:
             return 0
         return 1 + max(self.maxDepth(root.left), self.maxDepth(root.right))
+        
